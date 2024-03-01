@@ -1,0 +1,34 @@
+# Own resources
+_Resources/
+files_*.txt
+_*.txt
+
+# SQlite database
+database.db*
+
+# Filled in data csv's
+data/*.csv
+
+# InteliJ stuff
+.idea
+
+# Virtual enviroments
+venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Sphinx documentation
+docs/_build/
